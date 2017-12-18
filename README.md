@@ -1,11 +1,9 @@
 # note
-record sth useful
+record something useful
 
 学习笔记：
 
-	主要记录学习过程中有益的知识
+   主要记录学习过程中有益的知识
 
-	同时是监督自己在学习过程中的知识整理
+   同时是监督自己在学习过程中的知识整理
 	
-
-
